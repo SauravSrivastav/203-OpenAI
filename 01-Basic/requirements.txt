@@ -1,0 +1,4 @@
+langchain
+Openai
+# Install Hugging Face
+huggingface_hub
