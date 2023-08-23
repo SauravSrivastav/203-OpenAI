@@ -3,7 +3,7 @@ import streamlit as st
 
 from langchain.llms import OpenAI
 
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="sk-"
 
 #Function to return the response
 def load_answer(question):

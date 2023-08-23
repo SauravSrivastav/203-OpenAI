@@ -1,6 +1,6 @@
 # Set Hugging Face API token
 import os
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "hf_"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 # Import HuggingFaceHub class
 from langchain.llms import HuggingFaceHub
